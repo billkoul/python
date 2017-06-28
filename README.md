@@ -1,2 +1,7 @@
-These are some simple scripts written in python for educational purposes
-checking password strength, checking open ports, checking server availability, check running process etc..
+Some simple scripts written in Python for educational purposes.
+
+<b>Scripts:</b>
+1. Checking password strength, 
+2. Checking open ports,
+3. Checking server availability, 
+4. Check running processes
